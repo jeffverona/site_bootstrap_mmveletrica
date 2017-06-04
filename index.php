@@ -1,15 +1,14 @@
-<?php include("header.php")?>
+<?php include("header.php");?>
 	<!-- Content  -->
 	<div id="page-content">
 		<!-- Slider -->
 		<div class="slider-wrapper theme-default">
-			<div id="slider" class="nivoSlider"> <img src="images/slider/slide1.jpg" title="#htmlcaption1" data-thumb="images/slider/slide1.jpg" alt="" /> <img src="images/slider/slide2.jpg" title="#htmlcaption2" data-thumb="images/slider/slide2.jpg" alt="" /> <img src="images/slider/slide3.jpg" title="#htmlcaption3" data-thumb="images/slider/slide3.jpg" alt="" /> </div>
+			<div id="slider" class="nivoSlider"> <img src="images/slider/slide1.jpg" title="#htmlcaption1" data-thumb="images/slider/slide1.jpg" alt="" /> <img src="images/slider/slide_2.jpg" title="#htmlcaption2" data-thumb="images/slider/slide_2.jpg" alt="" /> <img src="images/slider/slide3.jpg" title="#htmlcaption3" data-thumb="images/slider/slide3.jpg" alt="" /> </div>
 			<div id="htmlcaption1" class="nivo-caption">
 				<div class="vert-wrapper">
 					<div class="vert">
 						<div class="text text1">Nós Somos Especialistas em 
 							<br>Manutenção Elétrica</div>
-						<div class="text text2 margin-bottom">Ligue: (11) 97371-2252</div>
 					</div>
 				</div>
 			</div>
@@ -104,22 +103,30 @@
 		<div class="block">
 			<div class="container">
 				<h1 class="text-center">Quem <b>Somos</b></h1>
-				<p class="font24 text-center">Somos de propriedade e operados localmente que torna os nossos serviços causal como eles são feitos por técnicos amigáveis ​​e úteis.</p>
+				<p class="font24 text-center">Fundada em 2015, A MMV Instalações Elétricas, atua na prestação de serviços na área de instalações elétricas industriais, comercial e  Residencial acompanhando-as desde a fase inicial até a conclusão da obra.</p>
 				<div class="row">
 					<div class="col-sm-6">
 						<div class="video-responsive">
-							<iframe src="https://player.vimeo.com/video/103180506"></iframe>
+							<img src="images/bannerquemsomos.jpg"></iframe>
 						</div>
 					</div>
 					<div class="divider-sm visible-xs"></div>
 					<div class="col-sm-6">
-						<p>Todos os nossos serviços são apoiados por nossa garantia de 100% de satisfação. Nossos eletricistas podem instalar qualquer coisa, desde a iluminação de segurança nova para o seu exterior a um gerador de casa toda que vai manter seus aparelhos funcionando durante uma falha de energia. Nossos serviços de instalação são sempre feitos prontamente e com segurança.</p>
+						<p>A MMV  Instalações  Elétrica  tem engenheiros e eletricistas trabalham com cuidado e atenção a cada projeto como se fosse nosso.
+						Temos paixão pelo nosso trabalho e sabemos o quão importante e grandioso é a nossa participação para o crescimento de sua empresa.
+						Por isso, a partir de estudos de viabilidade, estudo de mercado e tecnologia baseado no segmento de atuação da sua empresa, desenvolvemos projetos dedicados, visando o melhor custo/ benefício para você.
+						Desde pequenos a grandes projetos,  somos  encorajados a dar o nosso melhor.
+						Para isso, a MMV Instalações Elétrica  investe em treinamentos constantes, visando cada dia mais uma mão de obra exclusiva e especializada.
+						Veja quais os serviços de Instalações Industriais somos especialistas
+						</p>
 						<ul class="marker-list">
-							<li>Disposição elétrica de serviço completo, projeto</li>
-							<li>Fiação e instalação / atualizações</li>
-							<li>Soluções de energia de emergência (geradores)</li>
-							<li>Praticamente todas as necessidades elétricas que você tem - basta perguntar!</li>
-						</ul> <a href="#" class="btn btn-border"><i class="icon icon-lightning"></i><span>Know more</span></a> </div>
+							<li>Ampliação de Instalações Elétricas.</li>
+							<li>Instalações Elétricas Industriais.</li>
+							<li>Instalações Eletromecânica ( Eletocalhas, Leitos, Perfilados e Dutos)</li>
+							<li>Instalações de Painéis e Quadros Elétrico.</li>
+							<li>Instalações de Sistema de Cabeamento estruturado.</li>
+							<li>Instalações de Cabines Primárias.</li>
+						</ul> <a href="#" class="btn btn-border"><i class="icon icon-lightning"></i><span>Saiba mais</span></a> </div>
 				</div>
 			</div>
 		</div>
@@ -139,7 +146,7 @@
 		<div class="block bottom-sm">
 			<div class="container">
 				<h2 class="text-center">Nossos <b>Serviços</b></h2>
-				<h4 class="text-center subtitle"><i class="icon icon-telephone"></i>(11) 97371-2252</h4>
+				<h4 class="text-center subtitle"><i class="icon icon-telephone"></i>(11) 97371-2252 / 97998-2252 / 4644-3047</h4>
 				<p class="font24 text-center">Nunca hesite quando se trata de potenciais problemas elétricos. Questões elétricas podem rapidamente se transformar em grandes catástrofes.</p>
 				<div class="row text-icon-carousel">
 					<div class="col-sm-4">
@@ -252,4 +259,4 @@
 		-->
 	</div>
 	<!-- // Content  -->
-<?php include("footer.php")?>
+<?php include("footer.php");?>

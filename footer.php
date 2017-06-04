@@ -7,8 +7,6 @@
 					<div class="col-sm-4">Serviço de Emergência 24horas</div>
 					<div class="col-sm-1 hidden-xs">&nbsp;</div>
 					<div class="col-sm-3">Orçamento Grátis</div>
-					<div class="col-sm-1 hidden-xs">&nbsp;</div>
-					<div class="col-sm-3">(11) 97371-2252</div>
 				</div>
 			</div>
 		</div>
@@ -32,8 +30,8 @@
 				</div>
 				<div class="col-sm-4">
 					<ul class="contact-list">
-						<li><span class="list-label"><b>T</b>elefone:  </span> <span class="text">(11) 97371-2252</span></li>
-						<li><span class="list-label"><b>E</b>-mail:</span> <span class="text"><a href="mailto:info@yourdomain.com">info@yourdomain.com</a></span></li>
+						<li><span class="list-label"><b>T</b>elefone:  </span> <span class="text">(11) 97371-2252 <br>(11) 97998-2252 <br>(11) 4644-3047</span></li>
+						<li><span class="list-label"><b>E</b>-mail:</span> <span class="text"><a href="mmveletrica@gmail.com">mmveletrica@gmail.com </a></span></li>
 						<li><span class="list-label"><b>E</b>ndereço:</span> <span class="text">Rua Bugária, Nº 97 - Jd. Andriane - Itaquaquecetuba</span></li>
 						<li>De Segunda á Sexta das <b>08:00</b> ás <b>17:30</b></li>
 					</ul>
