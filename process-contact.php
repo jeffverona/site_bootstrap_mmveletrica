@@ -1,12 +1,12 @@
 <?php
 
-    $to = "jefferson.verona@gmail.com";  // Your email here
+    $to = "contato@mmveletrica.com.br";  // Your email here
     $from = $_REQUEST['jefferson.verona@gmail.com'];
     $name = $_REQUEST['name'];
 	$phone = $_REQUEST['phone'];
 	$message = $_REQUEST['message'];
     $headers = "From: $from";
-	$subject = "Contact Form PoolService";
+	$subject = "Contato do site";
    
     $fields = array();
     $fields{"name"} = "First name";
