@@ -122,7 +122,7 @@
 						<ul class="marker-list">
 							<li>Ampliação de Instalações Elétricas.</li>
 							<li>Instalações Elétricas Industriais.</li>
-							<li>Instalações Eletromecânica ( Eletocalhas, Leitos, Perfilados e Dutos)</li>
+							<li>Instalações Eletromecânica (Eletrocalha, Leitos, Perfilados e Dutos)</li>
 							<li>Instalações de Painéis e Quadros Elétrico.</li>
 							<li>Instalações de Sistema de Cabeamento estruturado.</li>
 							<li>Instalações de Cabines Primárias.</li>

@@ -37,7 +37,13 @@
 					</ul>
 				</div>
 				<div class="col-sm-5">
-					<div id="footer-map"></div>
+					<iframe
+					  width="460"
+					  height="225"
+					  frameborder="0" style="border:0"
+					  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB3VnqVcWUyOZpYeAkHXAL81jnu0oLDadw
+					    &q=R.+Bulgária,+97+-+Jardim+Adriane,+Itaquaquecetuba+-+SP,+08598-746" allowfullscreen>
+					</iframe>
 				</div>
 				<div class="visible-xs text-center">
 					<div class="copyright">© 2017 MMV Elétrica.

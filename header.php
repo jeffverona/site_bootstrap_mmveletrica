@@ -91,8 +91,6 @@
 				<div id="slidemenu" data-hover="dropdown" data-animations="fadeIn">
 					<ul class="nav navbar-nav">
 						<li class="active"><a href="index.php"><span class="electric-btn"><span class="text">Home</span></span></a></li>
-						<li><a href="services.php"><span class="electric-btn"><span class="text">Serviços</span></span></a></li>
-						<li><a href="gallery.php"><span class="electric-btn"><span class="text">Galeria</span></span></a></li>
 						<li><a href="contact.php"><span class="electric-btn"><span class="text">Contatos</span></span></a></li>
 					</ul>
 				</div>
