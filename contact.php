@@ -15,7 +15,13 @@
 		<div class="block">
 			<h1 class="text-center decor color">Solicite <b>Contato</b></h1>
 			<div class="divider"></div>
-			<div id="map"></div>
+				<iframe
+				  width="100%"
+				  height="225"
+				  frameborder="0" style="border:0"
+				  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB3VnqVcWUyOZpYeAkHXAL81jnu0oLDadw
+				    &q=R.+Bulgária,+97+-+Jardim+Adriane,+Itaquaquecetuba+-+SP,+08598-746" allowfullscreen>
+				</iframe>
 		</div>
 		<!-- //Block -->
 		<!-- Block -->
@@ -35,7 +41,7 @@
 							</div>
 							<div class="divider-sm"></div>
 							<h6>E-mail</h6>
-							<p><a href="#">noreply@envato.com</a>
+							<p><a href="#">mmveletrica@gmail.com</a>
 								<br>
 								<a href="#">www.mmveletrica.com</a></p>
 						</div>

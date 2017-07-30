@@ -8,7 +8,7 @@
 	<meta name="description" content="html 5 template">
 	<meta name="author" content="tonytemplates.com">
 	<link rel="icon" href="favicon.ico">
-	<title>Electrician - HTML 5 TEMPLATE</title>
+	<title>MMV Elétrica</title>
 	<!-- Bootstrap core CSS -->
 	<link href="css/plugins/bootstrap.min.css" rel="stylesheet">
 	<link href="css/plugins/bootstrap-submenu.css" rel="stylesheet">
