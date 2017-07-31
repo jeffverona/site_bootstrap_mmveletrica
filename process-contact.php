@@ -1,7 +1,7 @@
 <?php
 
     $to = "contato@mmveletrica.com.br";  // Your email here
-    $from = $_REQUEST['jefferson.verona@gmail.com'];
+    $from = $_REQUEST['contato@mmveletrica.com.br'];
     $name = $_REQUEST['name'];
 	$phone = $_REQUEST['phone'];
 	$message = $_REQUEST['message'];
