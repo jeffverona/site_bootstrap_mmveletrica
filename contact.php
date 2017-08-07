@@ -56,7 +56,7 @@
 					</div>
 					<div class="col-sm-1 visible-lg"></div>
 					<div class="col-sm-7 col-md-8">
-						<form id="contactform" class="contact-form" name="contactform" method="post" novalidate>
+						<form action="process-contact.php" id="contactform" class="contact-form" name="contactform" method="post" novalidate>
 							<div id="success">
 								<p>Sua mensagem foi enviada com sucesso</p>
 							</div>
@@ -87,10 +87,10 @@
 								<label>Mensagem</label>
 								<textarea class="textarea-custom input-full" name="message"></textarea>
 							</div>
-							<button type="submit" id="submit" class="btn btn-border"><i class="icon icon-lightning"></i><span>Enviar</span></button>
+							<button type="submit"  name="enviar_email" value="enviar" id="submit" class="btn btn-border"><i class="icon icon-lightning"></i><span>Enviar</span></button>
 						</form>
 					</div>
-				</div>
+ value="enviar"				</div>
 			</div>
 		</div>
 		<!-- //Block -->

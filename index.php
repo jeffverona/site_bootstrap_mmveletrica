@@ -36,11 +36,12 @@
 				<div class="request-form">
 					<h4>Solicite um orçamento. Informe seus dados e em seguida nós ligaremos para você.</h4>
 					<div class="inside">
-						<form action="#">
-							<input class="input-custom input-full" type="text" placeholder="Nome" />
-							<input class="input-custom input-full" type="text" placeholder="E-mail" />
-							<input class="input-custom input-full" type="text" placeholder="Telefone" />
-							<button class="btn"><i class="icon icon-lightning"></i><span>Enviar</span></button>
+						<form action="process-contact.php" id="contactform" class="contact-form" name="contactform" method="post" novalidate>
+							<input class="input-custom input-full" type="text" name="name" placeholder="Nome" />
+							<input class="input-custom input-full" type="text" name="email" placeholder="E-mail" />
+							<input class="input-custom input-full" type="text" name ="phone" placeholder="Telefone" />
+							<input style="display: none" type="text" name ="message" placeholder="mensagem" />
+							<button type="submit" class="btn" name="enviar_email" value="enviar"><i class="icon icon-lightning"></i><span>Enviar</span></button>
 						</form>
 					</div>
 				</div>

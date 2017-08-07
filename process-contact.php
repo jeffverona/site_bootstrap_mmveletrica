@@ -32,23 +32,25 @@ $enviaFormularioParaNome = 'Marcelo';
 $enviaFormularioParaEmail = 'jefferson.verona@gmail.com';
  
 $caixaPostalServidorNome = 'WebSite | Formulário';
-$caixaPostalServidorEmail = 'jefferson.verona@gmail.com';
-$caixaPostalServidorSenha = 'Je04071103@$';
+$caixaPostalServidorEmail = 'contato@mmveletrica.com.br';
+$caixaPostalServidorSenha = 'P!ngp0ng';
  
 /*** FIM - DADOS A SEREM ALTERADOS DE ACORDO COM SUAS CONFIGURAÇÕES DE E-MAIL ***/ 
  
  
 /* abaixo as veriaveis principais, que devem conter em seu formulario*/
- 
 $remetenteNome  = $_POST['name'];
 $remetenteEmail = $_POST['email'];
-$mensagem = $_POST['mensage'];
- 
+$mensagem = $_POST['message'];
+$telefone = $_POST['phone'];
+$assunto = 'contato do site'; 
 $mensagemConcatenada = 'Formulário gerado via website'.'<br/>'; 
 $mensagemConcatenada .= '-------------------------------<br/><br/>'; 
 $mensagemConcatenada .= 'Nome: '.$remetenteNome.'<br/>'; 
 $mensagemConcatenada .= 'E-mail: '.$remetenteEmail.'<br/>'; 
+$mensagemConcatenada .= 'Telefone: "'.$telefone.'"<br/>';
 $mensagemConcatenada .= 'Mensagem: "'.$mensagem.'"<br/>';
+
  
  
 /*********************************** A PARTIR DAQUI NAO ALTERAR ************************************/ 
@@ -77,6 +79,8 @@ if(!$mail->Send()){
 $mensagemRetorno = 'Erro ao enviar formulário: '. print($mail->ErrorInfo);
 }else{
 $mensagemRetorno = 'Formulário enviado com sucesso!';
+
+echo $mensagemRetorno;
 } 
  
  
