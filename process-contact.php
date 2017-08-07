@@ -29,7 +29,7 @@
 /*** INÍCIO - DADOS A SEREM ALTERADOS DE ACORDO COM SUAS CONFIGURAÇÕES DE E-MAIL ***/
  
 $enviaFormularioParaNome = 'Marcelo';
-$enviaFormularioParaEmail = 'jefferson.verona@gmail.com';
+$enviaFormularioParaEmail = 'mmveletrica@gmail.com';
  
 $caixaPostalServidorNome = 'WebSite | Formulário';
 $caixaPostalServidorEmail = 'contato@mmveletrica.com.br';
